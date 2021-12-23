@@ -1,0 +1,12 @@
+name: "hg38"
+tools:
+  bwa: /hpc/local/CentOS7/pmc_vanheesch/software/bwa-0.7.17/bwa
+  hisat2: /hpc/local/CentOS7/pmc_vanheesch/software/hisat2-2.2.1/hisat2
+  stringtie: /hpc/local/CentOS7/pmc_vanheesch/software/stringtie-2.1.5/stringtie
+  samtools: /hpc/local/CentOS7/pmc_vanheesch/software/samtools-1.12/bin/samtools
+
+reference:
+  fasta: /hpc/pmc_vanheesch/shared_resources/GENOMES/Homo_sapiens.GRCh38/102/Homo_sapiens.GRCh38.dna.primary_assembly.fa
+  gtf: /hpc/pmc_vanheesch/shared_resources/GENOMES/Homo_sapiens.GRCh38/102/annotation/Homo_sapiens.GRCh38.102.gtf
+  bwa_index: /hpc/pmc_vanheesch/shared_resources/GENOMES/Homo_sapiens.GRCh38/102/Homo_sapiens.GRCh38.dna.primary_assembly.fa
+  hisat_index: /hpc/pmc_vanheesch/shared_resources/GENOMES/Homo_sapiens.GRCh38/102/hisat2/2.2.1/Homo_sapiens.GRCh38.102
