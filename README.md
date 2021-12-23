@@ -61,6 +61,7 @@
 |viridis               |0.6.2      |https://github.com/<br>sjmgarnier/viridis/            |RRID:SCR\_016696                                                                                                        |
 <h2>Contact</h2>
 <p>For questions don't hesitate to send me a message at:
+<br>
     <a href="mailto:q.c.lin@students.uu.nl">q.c.lin@students.uu.nl</a>
 <br>or<br>
     <a href="mailto:q.c.lin-2@prinsesmaximacentrum.nl">q.c.lin-2@prinsesmaximacentrum.nl</a> (Non-active from 21/01/2022)
