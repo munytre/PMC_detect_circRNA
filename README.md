@@ -62,7 +62,7 @@
 <h2>Contact</h2>
 <p>For questions don't hesitate to send me a message at:
 <br>
-    <a href="mailto:q.c.lin@students.uu.nl">q.c.lin@students.uu.nl</a>
+    <a href="mailto:q.c.lin-3@umcutrecht.nl">q.c.lin-3@umcutrecht.nl</a>
 <br>or<br>
     <a href="mailto:q.c.lin-2@prinsesmaximacentrum.nl">q.c.lin-2@prinsesmaximacentrum.nl</a> (Non-active from 21/01/2022)
 </p>
